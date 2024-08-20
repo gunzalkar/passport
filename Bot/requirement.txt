@@ -1,0 +1,5 @@
+passporteye
+mrz
+uvicorn 
+opencv-python
+fastapi
